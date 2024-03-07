@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  adt-auth-helm:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-03-08T01:16:43.3498765+05:30"
+    description: A Helm chart for auth.
+    digest: 27cf695ea7b8d82f255df71ab97fb1aaf3dedd62160ef6baa6258fe36e8a85aa
+    name: adt-auth-helm
+    type: application
+    urls:
+    - adt-auth-helm-0.1.0.tgz
+    version: 0.1.0
+generated: "2024-03-08T01:16:43.3488747+05:30"
